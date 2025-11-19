@@ -1,5 +1,5 @@
 ## Hi there 👋
-Ich bin Fabian – hier findest du meine Projekte aus den Bereichen Distributed Systems, Webentwicklung, AI und Blockchain.
+I'm Fabian – here you'll find my projects in Distributed Systems, Web Development, AI, and Blockchain.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabianzwinge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zwingefabian@gmail.com) 
